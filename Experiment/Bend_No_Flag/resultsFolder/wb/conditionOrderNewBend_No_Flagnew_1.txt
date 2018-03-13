@@ -1,0 +1,4 @@
+conditions	block	stimFolder	sample1	sample2
+3	1	Bend_No_Flag_Stim	2	3
+1	1	Bend_No_Flag_Stim	1	2
+2	1	Bend_No_Flag_Stim	1	3

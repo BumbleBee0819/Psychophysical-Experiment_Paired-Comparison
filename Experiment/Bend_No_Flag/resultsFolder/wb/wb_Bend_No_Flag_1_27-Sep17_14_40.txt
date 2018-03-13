@@ -1,0 +1,4 @@
+subNo	experimentName	taskName	nBlocks	trial	stim1	stim2	response	reactionTime	numClicks	stimOrder1	stimOrder2
+wb	Bend_No_Flag	PairedComparison_1	1	1	/vid_2.mov	/vid_3.mov	5	6686	2	1	2
+wb	Bend_No_Flag	PairedComparison_1	1	2	/vid_1.mov	/vid_2.mov	7	4675	2	1	2
+wb	Bend_No_Flag	PairedComparison_1	1	3	/vid_3.mov	/vid_1.mov	3	4984	2	2	1
