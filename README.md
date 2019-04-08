@@ -33,7 +33,7 @@ If you use the codes, please cite the following papers.
    2. [LinearRegression_logparameter.m](https://github.com/BumbleBee0819/PsychophysicsExperiment_PairedComparison/blob/master/DataAnalysis/linear_logParameter/LinearRegression_logparameter.m): This code will do the regression plot of perceptual score v.s. the ground truth. Output will be stored in [here](https://github.com/BumbleBee0819/PsychophysicsExperiment_PairedComparison/tree/master/Output/Regression).
   
 ## Contact
-If you have any questions, please contact "wb1918a@american.edu".
+If you have any questions, please contact "wb1918a@american.edu" or "bei.xiao@american.edu".
    
    
 
