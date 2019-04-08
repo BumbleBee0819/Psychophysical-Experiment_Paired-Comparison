@@ -1,6 +1,6 @@
 # Psychophysical Experiment: Paired Comparison
 This folder contains the codes for conducting the paired comparison experiment and analyzing the data. We used these codes in our paper [Perceptual constancy of mechanical properties of cloth under variation of external forces
-](https://dl.acm.org/citation.cfm?id=2931016). Codes in this repository are supposed to work as a template such that the codes should work for all paired comparision experiments with little modifications.
+](https://dl.acm.org/citation.cfm?id=2931016). Codes in this repository are supposed to work as a template such that the codes should work for all paired comparison experiments with little modifications.
 
 ## Dependencies
 The codes are written in Matlab. Codes in [Experiment](https://github.com/BumbleBee0819/PsychophysicsExperiment_PairedComparison/tree/master/Experiment) requires the [The Psychtoolbox](http://psychtoolbox.org/credits/). Codes in [DataAnalysis](https://github.com/BumbleBee0819/PsychophysicsExperiment_PairedComparison/tree/master/DataAnalysis) requires the [BayesBT packages](http://www.stats.ox.ac.uk/~caron/code/bayesbt/index.html).
