@@ -3,7 +3,7 @@ This folder contains the codes for conducting the paired comparison experiment a
 ](https://dl.acm.org/citation.cfm?id=2931016). Codes in this repository are supposed to work as a template such that the codes should work for all paired comparison experiments with little modifications.
 
 ## Dependencies
-The codes are written in Matlab. Codes in [Experiment](https://github.com/BumbleBee0819/PsychophysicsExperiment_PairedComparison/tree/master/Experiment) requires the [The Psychtoolbox](http://psychtoolbox.org/credits/). Codes in [DataAnalysis](https://github.com/BumbleBee0819/PsychophysicsExperiment_PairedComparison/tree/master/DataAnalysis) requires the [BayesBT packages](http://www.stats.ox.ac.uk/~caron/code/bayesbt/index.html).
+The codes are written in Matlab. Codes in [Experiment](https://github.com/BumbleBee0819/PsychophysicsExperiment_PairedComparison/tree/master/Experiment) requires the [Psychtoolbox](http://psychtoolbox.org/credits/). Codes in [DataAnalysis](https://github.com/BumbleBee0819/PsychophysicsExperiment_PairedComparison/tree/master/DataAnalysis) requires the [BayesBT packages](http://www.stats.ox.ac.uk/~caron/code/bayesbt/index.html).
 
 ## References
 If you use the codes, please cite the following papers.
