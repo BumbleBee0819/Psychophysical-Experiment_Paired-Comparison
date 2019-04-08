@@ -1,3 +1,8 @@
+[![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/BumbleBee0819/PsychophysicsExperiment_PairedComparison/issues)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 # Psychophysical Experiment: Paired Comparison
 This folder contains the codes for conducting the paired comparison experiment and analyzing the data. We used these codes in our paper [Perceptual constancy of mechanical properties of cloth under variation of external forces
 ](https://dl.acm.org/citation.cfm?id=2931016). Codes in this repository are supposed to work as a template such that the codes should work for all paired comparison experiments with little modifications.
