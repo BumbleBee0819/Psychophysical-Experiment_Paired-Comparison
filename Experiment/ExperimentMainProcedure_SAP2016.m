@@ -1,9 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % MainExperiment.m for fabric tactile visual experiment.
 %
-% This code can call different types of experiments, including
-% paired-comparison and scaling. 
-%
+% Author: Wenyan Bi
+% Date: 11/08/2016.
 
 %==================== Initialization =====================================%
 clc;clear all;
