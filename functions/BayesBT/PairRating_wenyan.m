@@ -1,11 +1,12 @@
 % Analyse pair-wise rating resutls to get a single perceptual rating score.
 % Method is used in Bouman, Xiao, Battaglia, & Freeman, 2013
-% 03/25/2016 modified by wenyan from bei's original code.
+% 03/25/2016 modified by Wenyan Bi.
+
 clear all; close all;  
 % prepare the data 
 % Define subject
 curDir  = pwd;
-defaultSbj = 'bx';
+defaultSbj = 'wb';
 theSbj = input(sprintf('Enter subject name [%s]: ', defaultSbj), 's');
 if (isempty(theSbj)),
     theSbj = defaultSbj;
