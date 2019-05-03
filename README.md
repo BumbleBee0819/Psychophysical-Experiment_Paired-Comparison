@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-# Psychophysical Experiment: Paired Comparison
+# In-lab Psychophysics Experiment: Paired Comparison
 This folder contains the codes for conducting the paired comparison experiment and analyzing the data. We used these codes in our paper [Perceptual constancy of mechanical properties of cloth under variation of external forces
 ](https://dl.acm.org/citation.cfm?id=2931016). Codes in this repository are supposed to work as a template such that the codes should work for all paired comparison experiments with little modifications. See the project page [here](https://sites.google.com/site/wenyanbi0819/website-builder/sap16?authuser=0).
 
