@@ -1,5 +1,5 @@
 [![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/BumbleBee0819/PsychophysicsExperiment_PairedComparison/issues)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+[![Travis](https://img.shields.io/badge/language-JavaScript-yellow.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=paired_comparison)
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=paired_comparison)
