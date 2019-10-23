@@ -1,8 +1,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/BumbleBee0819/PsychophysicsExperiment_PairedComparison/issues/)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Matlab](https://img.shields.io/badge/language-Matlab-red.svg)]()
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=paired_comparison)
-![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=paired_comparison)
+<!--![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=paired_comparison)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=paired_comparison)-->
 > since 2019-10-13
 
 
